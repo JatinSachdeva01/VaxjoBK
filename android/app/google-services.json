@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660418997612",
+    "project_id": "footman-236bb",
+    "storage_bucket": "footman-236bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660418997612:android:27cadac81bb4d3a7279749",
+        "android_client_info": {
+          "package_name": "com.example.foot_man"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660418997612-i3h2jb3g6ct6f2jvb5ue7k0b49i3te29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzOSpGVb82-ahe7pAq-Q6gJo21SZcdkGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660418997612-i3h2jb3g6ct6f2jvb5ue7k0b49i3te29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
