@@ -1,6 +1,6 @@
 # foot_man
 
-A new Flutter application.
+It was a group project. Where we(team of 3) developed a cross platform application for a football club in vaxjo. We used dart and flutter framework for the development. Design Technique used : 3 Tier Architecture
 
 ## Getting Started
 
